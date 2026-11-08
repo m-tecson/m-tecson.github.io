@@ -8,6 +8,10 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "Guides"
+    url: https://github.com/m-tecson/MT-Guides
+    target: _blank
+
   - title: "Publications"
     url: /publications/
 
