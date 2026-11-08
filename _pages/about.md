@@ -27,4 +27,4 @@ My research training was supported by several pre-doctoral fellowship programs, 
 These programs provided tuition coverage and a stipend to support my research at SFSU.
 
 ## Outside the Lab
-Outside the lab, I like exploring the Bay Area one meal at a time, always chasing the next tacqueria (I'm a foodie!). Alongside my food journey, I typically bring a camera to freeze time and capture unique and special moments. Some photos from my travels are shared [here](/photography/)!
+Outside the lab, I like exploring the Bay Area one meal at a time, always chasing the next tacqueria (I'm a foodie!). Alongside my food journey, I typically bring a camera to freeze time and capture unique and special moments.
