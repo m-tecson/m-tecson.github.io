@@ -22,4 +22,5 @@ main:
     
   - title: "CV"
     url: /files/Tecson_CV.pdf
+    traget: _blank
 
