@@ -22,9 +22,9 @@ main:
     url: /files/Tecson_CV.pdf
     target: _blank    
 
-  - title: "Photography"
-    url: /photography/
+#  - title: "Photography"
+#    url: /photography/
 
-  - title: "Posts"
-    url: /year-archive/
+#  - title: "Posts"
+#    url: /year-archive/
 
