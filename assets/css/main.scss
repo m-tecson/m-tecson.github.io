@@ -36,3 +36,19 @@
     "layout/archive",
     "layout/sidebar"
 ;
+
+.greedy-nav .hidden-links {
+  right: 0;
+  left: auto;
+  max-width: calc(100vw - 1rem);
+  box-sizing: border-box;
+}
+
+.greedy-nav .hidden-links li {
+  white-space: normal;
+}
+
+.greedy-nav .hidden-links a {
+  white-space: normal;
+  word-break: break-word;
+}
