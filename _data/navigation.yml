@@ -12,15 +12,15 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
+
+  - title: "CV"
+    url: /files/Tecson_CV.pdf
+    target: _blank    
 
   - title: "Photography"
     url: /photography/
 
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /files/Tecson_CV.pdf
-    target: _blank
 
