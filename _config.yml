@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Markus Cecil Basañes Tecson"
 title_separator          : "-"
 name                     : &name "Markus C.B. Tecson"
-description              : &description "M.S. in Chemistry (Biochemistry) applying structural biology, biophysics, and computation to disease-relevant protein targets."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "M.S. in Chemistry (concentration in Biochemistry) applying structural biology, biophysics, and computation to disease-relevant protein targets."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://m-tecson.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,25 +23,25 @@ repository               : "m-tecson/m-tecson.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "Tecson.jpg"
+  name             : "Markus C.B. Tecson"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Incoming Staff Research Associate @ CxT Discovery<br>M.S. Chemistry (Biochemistry), SFSU"
+  location         : "San Francisco Bay Area"
+  employer         : # Employer
   uri              : # URL
-  email            : "none@example.org" 
+  email            : # Email address 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=04veiBoAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0004-6594-5467"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "m-tecson"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "mtecson.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "mcbtecson" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -222,12 +222,12 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  photography:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -261,9 +261,9 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
+      author_profile: false
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -273,15 +273,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _photography
   - scope:
       path: ""
-      type: portfolio
+      type: photography
     values:
       layout: single
-      author_profile: true
-      share: true
-      comment: true
+      author_profile: false
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""

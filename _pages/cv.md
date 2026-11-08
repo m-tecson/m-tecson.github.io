@@ -11,11 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Chemistry (concentration in Biochemistry), San Francisco State University, August 2026
+* B.S. in Biochemistry, San Francisco State University, May 2025
 
-Work experience
+Research Experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
