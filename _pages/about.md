@@ -13,7 +13,7 @@ My research was completed under the training and mentorship of [Dr. Eric Greene]
 
 As a founding member of the Greene Lab, I helped build the lab’s day-to-day infrastructure as it grew. I mentored 9 new researchers to the point of running experiments independently, managed the chemical inventory, maintained the lab’s centralized protocols, and troubleshot equipment ranging from ÄKTA protein purification systems to lab workstations and computing resources.
 
-Starting November 16, I’m joining [CxT Discovery](https://cxtdiscovery.org/) as a Staff Research Associate, where I’ll run biochemical and biophysical assays and support structure-activity relationship (SAR) investigations across the early-stage discovery pipeline. I’ll bring my background in protein biochemistry and enzymology to that work, along with a structural biology perspective. I’m eager to learn structure-guided design and to grow into a scientist who can help move discovery projects forward, with a PhD as my longer-term goal.
+After completing my graduate studies at San Francisco State University, I joined [CxT Discovery](https://cxtdiscovery.org/) as a Staff Research Associate, where I run biochemical and biophysical assays and support structure-activity relationship (SAR) investigations across the early-stage discovery pipeline. I bring my background in protein biochemistry and enzymology to that work, along with a structural biology perspective. I’m eager to learn structure-guided design and to grow into a scientist who can help move discovery projects forward, with a PhD as my longer-term goal.
 
 ## Training and support
 
