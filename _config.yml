@@ -23,10 +23,10 @@ repository               : "m-tecson/m-tecson.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Tecson.jpg"
+  avatar           : "Tecson.png"
   name             : "Markus C.B. Tecson"
   pronouns         : # example: "she/her"  
-  bio              : "Incoming Staff Research Associate @ CxT Discovery<br>M.S. Chemistry (Biochemistry), SFSU"
+  bio              : "Staff Research Associate @ CxT Discovery<br>M.S. Chemistry (Biochemistry), SFSU"
   location         : "San Francisco Bay Area"
   employer         : # Employer
   uri              : # URL
